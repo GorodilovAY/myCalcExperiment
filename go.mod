@@ -1,3 +1,3 @@
-module github.com/GorodilovAY/myCalcExperiment/calc
+module calc
 
 go 1.25.0
